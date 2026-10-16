@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.9.16)  16 OCT 2026 12:36
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.9.16)  16 OCT 2026 15:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -816,11 +816,7 @@ Package biblatex Info: ... file 'blx-dm.def' found.
 File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'apa.dbx' found.
-
-(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\apa.dbx
-File: apa.dbx 2025/08/27 v9.20 APA biblatex style data model
-)
+Package biblatex Info: ... file 'authoryear.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@afterword=\count428
@@ -859,48 +855,38 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@savedshortauthor=\count461
 \c@shorteditor=\count462
 \c@savedshorteditor=\count463
-\c@narrator=\count464
-\c@savednarrator=\count465
-\c@execproducer=\count466
-\c@savedexecproducer=\count467
-\c@execdirector=\count468
-\c@savedexecdirector=\count469
-\c@with=\count470
-\c@savedwith=\count471
-\c@labelname=\count472
-\c@savedlabelname=\count473
-\c@institution=\count474
-\c@savedinstitution=\count475
-\c@lista=\count476
-\c@savedlista=\count477
-\c@listb=\count478
-\c@savedlistb=\count479
-\c@listc=\count480
-\c@savedlistc=\count481
-\c@listd=\count482
-\c@savedlistd=\count483
-\c@liste=\count484
-\c@savedliste=\count485
-\c@listf=\count486
-\c@savedlistf=\count487
-\c@location=\count488
-\c@savedlocation=\count489
-\c@organization=\count490
-\c@savedorganization=\count491
-\c@origlocation=\count492
-\c@savedoriglocation=\count493
-\c@origpublisher=\count494
-\c@savedorigpublisher=\count495
-\c@publisher=\count496
-\c@savedpublisher=\count497
-\c@language=\count498
-\c@savedlanguage=\count499
-\c@origlanguage=\count500
-\c@savedoriglanguage=\count501
-\c@citation=\count502
-\c@savedcitation=\count503
-\c@pageref=\count504
-\c@savedpageref=\count505
+\c@labelname=\count464
+\c@savedlabelname=\count465
+\c@institution=\count466
+\c@savedinstitution=\count467
+\c@lista=\count468
+\c@savedlista=\count469
+\c@listb=\count470
+\c@savedlistb=\count471
+\c@listc=\count472
+\c@savedlistc=\count473
+\c@listd=\count474
+\c@savedlistd=\count475
+\c@liste=\count476
+\c@savedliste=\count477
+\c@listf=\count478
+\c@savedlistf=\count479
+\c@location=\count480
+\c@savedlocation=\count481
+\c@organization=\count482
+\c@savedorganization=\count483
+\c@origlocation=\count484
+\c@savedoriglocation=\count485
+\c@origpublisher=\count486
+\c@savedorigpublisher=\count487
+\c@publisher=\count488
+\c@savedpublisher=\count489
+\c@language=\count490
+\c@savedlanguage=\count491
+\c@origlanguage=\count492
+\c@savedoriglanguage=\count493
+\c@pageref=\count494
+\c@savedpageref=\count495
 \shorthandwidth=\skip124
 \shortjournalwidth=\skip125
 \shortserieswidth=\skip126
@@ -930,64 +916,46 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
-\c@textcitecount=\count506
-\c@textcitetotal=\count507
-\c@textcitemaxnames=\count508
-\c@biburlbigbreakpenalty=\count509
-\c@biburlbreakpenalty=\count510
-\c@biburlnumpenalty=\count511
-\c@biburlucpenalty=\count512
-\c@biburllcpenalty=\count513
+\c@textcitecount=\count496
+\c@textcitetotal=\count497
+\c@textcitemaxnames=\count498
+\c@biburlbigbreakpenalty=\count499
+\c@biburlbreakpenalty=\count500
+\c@biburlnumpenalty=\count501
+\c@biburlucpenalty=\count502
+\c@biburllcpenalty=\count503
 \biburlbigskip=\muskip19
 \biburlnumskip=\muskip20
 \biburlucskip=\muskip21
 \biburllcskip=\muskip22
-\c@smartand=\count514
+\c@smartand=\count504
 )
-Package biblatex Info: Trying to load bibliography style 'apa'...
-Package biblatex Info: ... file 'apa.bbx' found.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\apa.bbx
-File: apa.bbx 2025/08/27 v9.20 APA biblatex references style
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\authoryear
+.bbx
+File: authoryear.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
 (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
 bx
 File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count515
-\c@bbx:relatedtotal=\count516
-)
-Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defin
-ed, overwriting.
-Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already d
-efined, overwriting.
-Package biblatex Info: Delimiter 'nonameyeardelim' in context 'bib' already def
-ined, overwriting.
-Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already
- defined, overwriting.
-)
-Package biblatex Info: Trying to load citation style 'apa'...
-Package biblatex Info: ... file 'apa.cbx' found.
+\c@bbx:relatedcount=\count505
+\c@bbx:relatedtotal=\count506
+))
+Package biblatex Info: Trying to load citation style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.cbx' found.
 
-(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex-apa\apa.cbx
-File: apa.cbx 2025/08/27 v9.20 APA biblatex citation style
-Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
- overwriting.
-Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined
-, overwriting.
-Package biblatex Info: Redefining '\fullcite'.
-Package biblatex Info: Redefining '\citeauthor'.
-Package biblatex Info: Redefining '\citeyear'.
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\authoryear
+.cbx
+File: authoryear.cbx 2025/07/10 v3.21 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
-Package biblatex Info: Redefining '\cites'.
 Package biblatex Info: Redefining '\parencite'.
-Package biblatex Info: Redefining '\parencites'.
 Package biblatex Info: Redefining '\footcite'.
-Package biblatex Info: Redefining '\footcites'.
 Package biblatex Info: Redefining '\footcitetext'.
-Package biblatex Info: Redefining '\footcitetexts'.
 Package biblatex Info: Redefining '\smartcite'.
-Package biblatex Info: Redefining '\smartcites'.
 Package biblatex Info: Redefining '\textcite'.
 Package biblatex Info: Redefining '\textcites'.
 )
@@ -1056,9 +1024,10 @@ Package csquotes Warning: No style for language 'indonesian'.
 
 Package csquotes Info: Redefining alias 'default' -> 'fallback'.
 (Laporan_KP.aux
-
-LaTeX Warning: Label `chap:penutup' multiply defined.
-
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel
+-english.tex)
+Package babel Info: Importing data for english
+(babel)             from babel-en.ini. Reported on input line 112.
 )
 \openout1 = `Laporan_KP.aux'.
 
@@ -1153,14 +1122,16 @@ Package caption Info: floatrow package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: longtable package is loaded.
- (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: Fixing longtable code of `floatrow' package.
 Package caption Info: threeparttable package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring ON on input line 50.
- (Laporan_KP.out) (Laporan_KP.out)
+
+(Laporan_KP.out) (Laporan_KP.out)
 \@outlinefile=\write4
 \openout4 = `Laporan_KP.out'.
 
@@ -1171,9 +1142,9 @@ Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
 
 \flrow@LT@lasthead=\box72
 \flrow@LT@prelastfoot=\box73
-\c@FBLTpage=\count517
+\c@FBLTpage=\count507
 )
-\c@lstlisting=\count518
+\c@lstlisting=\count508
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1225,16 +1196,19 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `TimesNewRoman' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-Package biblatex Warning: File 'indonesian-apa.lbx' not found!
-(biblatex)                Ignoring mapping 'indonesian' -> 'indonesian-apa'.
-
 Package biblatex Info: Trying to load language 'indonesian'...
 Package biblatex Info: ... file 'indonesian.lbx' not found.
 
 Package biblatex Warning: Language 'indonesian' not supported.
 (biblatex)                Using dummy definitions on input line 50.
 
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lb
+x
+File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
+)
 Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Automatic encoding selection.
@@ -1243,7 +1217,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Laporan_KP.bbl' found.
-(Laporan_KP.bbl)
+ (Laporan_KP.bbl)
 Package biblatex Info: Reference section=0 on input line 50.
 Package biblatex Info: Reference segment=0 on input line 50.
  (01 Halaman Judul.tex
@@ -1399,31 +1373,89 @@ Underfull \vbox (badness 2080) has occurred while \output is active []
 
 ])
 [20]
+Overfull \hbox (3.60097pt too wide) in paragraph at lines 97--97
+\TU/TimesNewRoman(0)/m/it/12 trian No. 34 Tahun 2024 tentang Tata Cara Perhitun
+gan Tingkat Komponen Dalam
+ []
 
-LaTeX Warning: Empty bibliography on input line 96.
 
-(Laporan_KP.aux)
+Overfull \hbox (7.93703pt too wide) in paragraph at lines 97--97
+\TU/TimesNewRoman(0)/m/n/12 Railways: A Systematic Literature Review”. Dalam: \
+TU/TimesNewRoman(0)/m/it/12 International Journal of Trans-
+ []
+
+
+Overfull \hbox (12.83838pt too wide) in paragraph at lines 97--97
+[][]\TU/TimesNewRoman(0)/m/n/12 NEXTSENSE GmbH (2026). \TU/TimesNewRoman(0)/m/i
+t/12 CALIPRI Technical Documentation: Non-Contact Wheel
+ []
+
+(Lampiran-A.tex [21
+
+
+] [22
+
+]
+Lampiran A.
+File: images/Companny.png Graphic file (type bmp)
+<images/Companny.png>
+File: images/Diagram Arsitektur Sistem AFC.png Graphic file (type bmp)
+<images/Diagram Arsitektur Sistem AFC.png>
+File: images/Katalog.png Graphic file (type bmp)
+<images/Katalog.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23
+
+]
+File: images/kegiatan1.png Graphic file (type bmp)
+<images/kegiatan1.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
+File: images/kegiatan2.png Graphic file (type bmp)
+<images/kegiatan2.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]
+File: images/kegiatan3.png Graphic file (type bmp)
+<images/kegiatan3.png>
+File: images/MOM.png Graphic file (type bmp)
+<images/MOM.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26]
+File: images/perayaanultah.JPG Graphic file (type bmp)
+<images/perayaanultah.JPG>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27]
+File: images/presentasi1.JPG Graphic file (type bmp)
+<images/presentasi1.JPG>
+)
+[28] (Laporan_KP.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
-
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `Laporan_KP.out' has not changed.
-(rerunfilecheck)             Checksum: CC17DA6307F3EB69ABBE4F1F5499F420;11066.
+(rerunfilecheck)             Checksum: BC71C8E71647E48239700C81E3E90C64;11459.
 Package logreq Info: Writing requests to 'Laporan_KP.run.xml'.
 \openout1 = `Laporan_KP.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31351 strings out of 402987
- 602973 string characters out of 5448524
- 1741821 words of memory out of 5000000
- 59680 multiletter control sequences out of 15000+600000
+ 32295 strings out of 402987
+ 621667 string characters out of 5448524
+ 1677535 words of memory out of 5000000
+ 60606 multiletter control sequences out of 15000+600000
  632934 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 88i,10n,109p,1713b,616s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 88i,10n,109p,1713b,6026s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Laporan_KP.pdf (38 pages).
+Output written on Laporan_KP.pdf (46 pages).

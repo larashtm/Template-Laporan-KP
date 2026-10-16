@@ -65,7 +65,7 @@
 \RequirePackage{xcolor}             % for color definitions
 \RequirePackage[title,titletoc]{appendix} % for appendix management
 \RequirePackage[
-    style=apa,
+    style=authoryear,
     backend=biber,
     language=english,
     autolang=other
@@ -235,7 +235,7 @@
 
 % --- Gambar: Tampilan judul/caption gambar ---
 \captionsetup[figure]{
-  labelsep=space,
+  labelsep=period,
   format=hang
 }
 \floatsetup[figure]{

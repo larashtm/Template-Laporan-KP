@@ -16,5 +16,344 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{bps2020kbli}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9e8d1c6faf863da2684d21326ecf4fad}{%
+           family={{Badan Pusat Statistik}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Jakarta}%
+      }
+      \list{publisher}{1}{%
+        {Badan Pusat Statistik}%
+      }
+      \strng{namehash}{9e8d1c6faf863da2684d21326ecf4fad}
+      \strng{fullhash}{9e8d1c6faf863da2684d21326ecf4fad}
+      \strng{fullhashraw}{9e8d1c6faf863da2684d21326ecf4fad}
+      \strng{bibnamehash}{9e8d1c6faf863da2684d21326ecf4fad}
+      \strng{authorbibnamehash}{9e8d1c6faf863da2684d21326ecf4fad}
+      \strng{authornamehash}{9e8d1c6faf863da2684d21326ecf4fad}
+      \strng{authorfullhash}{9e8d1c6faf863da2684d21326ecf4fad}
+      \strng{authorfullhashraw}{9e8d1c6faf863da2684d21326ecf4fad}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Peraturan BPS No. 2 Tahun 2020 tentang Klasifikasi Baku Lapangan Usaha Indonesia (KBLI)}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
+    \entry{capece2016pantobot}{inproceedings}{}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=45c52299eca3f1a84b770736bb85af59}{%
+           family={Capece},
+           familyi={C\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9f51d8869f636d76e63aa3533a944316}
+      \strng{fullhash}{9f51d8869f636d76e63aa3533a944316}
+      \strng{fullhashraw}{9f51d8869f636d76e63aa3533a944316}
+      \strng{bibnamehash}{9f51d8869f636d76e63aa3533a944316}
+      \strng{authorbibnamehash}{9f51d8869f636d76e63aa3533a944316}
+      \strng{authornamehash}{9f51d8869f636d76e63aa3533a944316}
+      \strng{authorfullhash}{9f51d8869f636d76e63aa3533a944316}
+      \strng{authorfullhashraw}{9f51d8869f636d76e63aa3533a944316}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{IET Conference on Railway Condition Monitoring (RCM 2016)}
+      \field{title}{{PANTOBOT-3D}: An Automatic Vision-Based Inspection System for Locomotive Pantographs}
+      \field{year}{2016}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+    \endentry
+    \entry{cen2016en15313}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7bbc3d50a2fa531956d76615a76d6319}{%
+           family={{European Committee for Standardization}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Brussels}%
+      }
+      \list{publisher}{1}{%
+        {European Committee for Standardization}%
+      }
+      \strng{namehash}{7bbc3d50a2fa531956d76615a76d6319}
+      \strng{fullhash}{7bbc3d50a2fa531956d76615a76d6319}
+      \strng{fullhashraw}{7bbc3d50a2fa531956d76615a76d6319}
+      \strng{bibnamehash}{7bbc3d50a2fa531956d76615a76d6319}
+      \strng{authorbibnamehash}{7bbc3d50a2fa531956d76615a76d6319}
+      \strng{authornamehash}{7bbc3d50a2fa531956d76615a76d6319}
+      \strng{authorfullhash}{7bbc3d50a2fa531956d76615a76d6319}
+      \strng{authorfullhashraw}{7bbc3d50a2fa531956d76615a76d6319}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{EN 15313:2016}
+      \field{title}{Railway Applications -- In-Service Maintenance Requirements for Wheelsets}
+      \field{year}{2016}
+      \true{nocite}
+    \endentry
+    \entry{kemenperin2024tkdn}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e85403f02a98ce97c0a070c35ef02fdc}{%
+           family={{Kementerian Perindustrian Republik Indonesia}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Jakarta}%
+      }
+      \list{publisher}{1}{%
+        {Kementerian Perindustrian Republik Indonesia}%
+      }
+      \strng{namehash}{e85403f02a98ce97c0a070c35ef02fdc}
+      \strng{fullhash}{e85403f02a98ce97c0a070c35ef02fdc}
+      \strng{fullhashraw}{e85403f02a98ce97c0a070c35ef02fdc}
+      \strng{bibnamehash}{e85403f02a98ce97c0a070c35ef02fdc}
+      \strng{authorbibnamehash}{e85403f02a98ce97c0a070c35ef02fdc}
+      \strng{authornamehash}{e85403f02a98ce97c0a070c35ef02fdc}
+      \strng{authorfullhash}{e85403f02a98ce97c0a070c35ef02fdc}
+      \strng{authorfullhashraw}{e85403f02a98ce97c0a070c35ef02fdc}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Peraturan Menteri Perindustrian No. 34 Tahun 2024 tentang Tata Cara Perhitungan Tingkat Komponen Dalam Negeri (TKDN) untuk Produk Modul Surya}
+      \field{year}{2024}
+      \true{nocite}
+    \endentry
+    \entry{kemenperin2025sertifikasi}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e85403f02a98ce97c0a070c35ef02fdc}{%
+           family={{Kementerian Perindustrian Republik Indonesia}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Jakarta}%
+      }
+      \list{publisher}{1}{%
+        {Kementerian Perindustrian Republik Indonesia}%
+      }
+      \strng{namehash}{e85403f02a98ce97c0a070c35ef02fdc}
+      \strng{fullhash}{e85403f02a98ce97c0a070c35ef02fdc}
+      \strng{fullhashraw}{e85403f02a98ce97c0a070c35ef02fdc}
+      \strng{bibnamehash}{e85403f02a98ce97c0a070c35ef02fdc}
+      \strng{authorbibnamehash}{e85403f02a98ce97c0a070c35ef02fdc}
+      \strng{authornamehash}{e85403f02a98ce97c0a070c35ef02fdc}
+      \strng{authorfullhash}{e85403f02a98ce97c0a070c35ef02fdc}
+      \strng{authorfullhashraw}{e85403f02a98ce97c0a070c35ef02fdc}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Peraturan Menteri Perindustrian No. 35 Tahun 2025 tentang Ketentuan Sertifikasi TKDN dan Bobot Manfaat Perusahaan}
+      \field{year}{2025}
+      \true{nocite}
+    \endentry
+    \entry{kreon2026laser}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0ab9a1f2d40f10ed1e466bf2065c3dcd}{%
+           family={{Kreon Technologies}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{0ab9a1f2d40f10ed1e466bf2065c3dcd}
+      \strng{fullhash}{0ab9a1f2d40f10ed1e466bf2065c3dcd}
+      \strng{fullhashraw}{0ab9a1f2d40f10ed1e466bf2065c3dcd}
+      \strng{bibnamehash}{0ab9a1f2d40f10ed1e466bf2065c3dcd}
+      \strng{authorbibnamehash}{0ab9a1f2d40f10ed1e466bf2065c3dcd}
+      \strng{authornamehash}{0ab9a1f2d40f10ed1e466bf2065c3dcd}
+      \strng{authorfullhash}{0ab9a1f2d40f10ed1e466bf2065c3dcd}
+      \strng{authorfullhashraw}{0ab9a1f2d40f10ed1e466bf2065c3dcd}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Artikel teknis vendor. Diakses 20 Agustus 2026}
+      \field{title}{3D Laser Triangulation Scanning Technology in Manufacturing Processes}
+      \field{year}{2026}
+      \true{nocite}
+    \endentry
+    \entry{kumar2024machine}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=40faa1bc69980517511d12eb5ab3c8bb}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1ac98611e97b3a1f244c66805e0382d}{%
+           family={Harsha},
+           familyi={H\bibinitperiod},
+           given={S.\bibnamedelimi P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f3cfb1fd4f1e0f894f671c84be92cf11}
+      \strng{fullhash}{f3cfb1fd4f1e0f894f671c84be92cf11}
+      \strng{fullhashraw}{f3cfb1fd4f1e0f894f671c84be92cf11}
+      \strng{bibnamehash}{f3cfb1fd4f1e0f894f671c84be92cf11}
+      \strng{authorbibnamehash}{f3cfb1fd4f1e0f894f671c84be92cf11}
+      \strng{authornamehash}{f3cfb1fd4f1e0f894f671c84be92cf11}
+      \strng{authorfullhash}{f3cfb1fd4f1e0f894f671c84be92cf11}
+      \strng{authorfullhashraw}{f3cfb1fd4f1e0f894f671c84be92cf11}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Transportation Science and Technology}
+      \field{number}{2}
+      \field{title}{Machine Vision-Based Defect Detection in Railways: A Systematic Literature Review}
+      \field{volume}{13}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{115\bibrangedash 130}
+      \range{pages}{16}
+    \endentry
+    \entry{nannar2026pantograf}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e50defb03812b05dc9b768d92586d35b}{%
+           family={{Nannar [Vendor Pantograf]}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{e50defb03812b05dc9b768d92586d35b}
+      \strng{fullhash}{e50defb03812b05dc9b768d92586d35b}
+      \strng{fullhashraw}{e50defb03812b05dc9b768d92586d35b}
+      \strng{bibnamehash}{e50defb03812b05dc9b768d92586d35b}
+      \strng{authorbibnamehash}{e50defb03812b05dc9b768d92586d35b}
+      \strng{authornamehash}{e50defb03812b05dc9b768d92586d35b}
+      \strng{authorfullhash}{e50defb03812b05dc9b768d92586d35b}
+      \strng{authorfullhashraw}{e50defb03812b05dc9b768d92586d35b}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Dikutip dalam dokumentasi internal PT Nutech Integrasi}
+      \field{title}{Technical Documentation: Vision-Based Pantograph Inspection System}
+      \field{year}{2026}
+      \true{nocite}
+    \endentry
+    \entry{nextsense2026calipri}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f6b74f4fc882100439ae258de1b2c760}{%
+           family={{NEXTSENSE GmbH}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Graz}%
+      }
+      \list{publisher}{1}{%
+        {NEXTSENSE GmbH}%
+      }
+      \strng{namehash}{f6b74f4fc882100439ae258de1b2c760}
+      \strng{fullhash}{f6b74f4fc882100439ae258de1b2c760}
+      \strng{fullhashraw}{f6b74f4fc882100439ae258de1b2c760}
+      \strng{bibnamehash}{f6b74f4fc882100439ae258de1b2c760}
+      \strng{authorbibnamehash}{f6b74f4fc882100439ae258de1b2c760}
+      \strng{authornamehash}{f6b74f4fc882100439ae258de1b2c760}
+      \strng{authorfullhash}{f6b74f4fc882100439ae258de1b2c760}
+      \strng{authorfullhashraw}{f6b74f4fc882100439ae258de1b2c760}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{CALIPRI} Technical Documentation: Non-Contact Wheel Profile Measurement System Using Laser Light Section}
+      \field{year}{2026}
+      \true{nocite}
+    \endentry
+    \entry{jarwinn2026pjuts}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3c097ef105766b032e260811ea9d15c4}{%
+           family={{PT Jarwinn Solar Panel}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Jakarta}%
+      }
+      \list{publisher}{1}{%
+        {PT Nutech Integrasi dan PT Jarwinn Solar Panel}%
+      }
+      \strng{namehash}{3c097ef105766b032e260811ea9d15c4}
+      \strng{fullhash}{3c097ef105766b032e260811ea9d15c4}
+      \strng{fullhashraw}{3c097ef105766b032e260811ea9d15c4}
+      \strng{bibnamehash}{3c097ef105766b032e260811ea9d15c4}
+      \strng{authorbibnamehash}{3c097ef105766b032e260811ea9d15c4}
+      \strng{authornamehash}{3c097ef105766b032e260811ea9d15c4}
+      \strng{authorfullhash}{3c097ef105766b032e260811ea9d15c4}
+      \strng{authorfullhashraw}{3c097ef105766b032e260811ea9d15c4}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Dalam Minutes of Meeting Pembahasan Kemitraan Bisnis}
+      \field{title}{Materi Teknis, Klasifikasi Sistem Kelistrikan Tenaga Surya, dan Dokumen Pre-Sales PJUTS}
+      \field{year}{2026}
+      \true{nocite}
+    \endentry
+    \entry{nutech2026profile}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b49617d72fe4b7f074c83e90bc1698e9}{%
+           family={{PT Nutech Integrasi}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Jakarta}%
+      }
+      \list{publisher}{1}{%
+        {PT Nutech Integrasi}%
+      }
+      \strng{namehash}{b49617d72fe4b7f074c83e90bc1698e9}
+      \strng{fullhash}{b49617d72fe4b7f074c83e90bc1698e9}
+      \strng{fullhashraw}{b49617d72fe4b7f074c83e90bc1698e9}
+      \strng{bibnamehash}{b49617d72fe4b7f074c83e90bc1698e9}
+      \strng{authorbibnamehash}{b49617d72fe4b7f074c83e90bc1698e9}
+      \strng{authornamehash}{b49617d72fe4b7f074c83e90bc1698e9}
+      \strng{authorfullhash}{b49617d72fe4b7f074c83e90bc1698e9}
+      \strng{authorfullhashraw}{b49617d72fe4b7f074c83e90bc1698e9}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Company Profile dan Katalog Produk Solusi Perkeretaapian (Intelligent Mobility dan Intelligent Services)}
+      \field{year}{2026}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

@@ -93,9 +93,15 @@
 % DAFTAR PUSTAKA (Cetak isi daftar pustaka)
 % ==========================================
 \cleardoublepage
-\printbibliography[title={DAFTAR PUSTAKA}]
+\nocite{*}
+\printbibliography[heading=bibintoc,title={DAFTAR PUSTAKA}]
 
-% Lampiran A dan B tidak digunakan.
+\appendix
+\begin{appendices}
+\input{Lampiran-A.tex}
+\end{appendices}
+
+% Lampiran B tidak digunakan.
 \backmatter
 
 \end{document}

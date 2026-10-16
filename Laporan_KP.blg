@@ -1,9 +1,15 @@
-[1] Config.pm:328> INFO - This is Biber 2.21
-[2] Config.pm:331> INFO - Logfile is 'Laporan_KP.blg'
-[1293] biber-MSWIN64:342> INFO - === 
-[1549] Biber.pm:421> INFO - Reading 'Laporan_KP.bcf'
-[2234] Biber.pm:1002> INFO - Found 0 citekeys in bib section 0
-[2353] bbl.pm:676> INFO - Writing 'Laporan_KP.bbl' with encoding 'UTF-8'
-[2356] bbl.pm:779> INFO - Output to Laporan_KP.bbl
-[2357] Biber.pm:132> WARN - The file 'Laporan_KP.bcf' does not contain any citations!
-[2357] Biber.pm:134> INFO - WARNINGS: 1
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'Laporan_KP.blg'
+[251] biber-MSWIN64:342> INFO - === 
+[360] Biber.pm:421> INFO - Reading 'Laporan_KP.bcf'
+[542] Biber.pm:999> INFO - Using all citekeys in bib section 0
+[563] Biber.pm:4487> INFO - Processing section 0
+[585] Biber.pm:4678> INFO - Looking for bibtex file 'daftar-pustaka.bib' for section 0
+[720] bibtex.pm:1713> INFO - LaTeX decoding ...
+[743] bibtex.pm:1519> INFO - Found BibTeX data source 'daftar-pustaka.bib'
+[898] UCollate.pm:68> INFO - Overriding locale 'indonesian' defaults 'variable = shifted' with 'variable = non-ignorable'
+[898] UCollate.pm:68> INFO - Overriding locale 'indonesian' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[899] Biber.pm:4307> INFO - Sorting list 'nyt/global//global/global/global' of type 'entry' with template 'nyt' and locale 'indonesian'
+[899] Biber.pm:4313> INFO - No sort tailoring available for locale 'indonesian'
+[918] bbl.pm:676> INFO - Writing 'Laporan_KP.bbl' with encoding 'UTF-8'
+[930] bbl.pm:779> INFO - Output to Laporan_KP.bbl
