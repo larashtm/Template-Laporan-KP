@@ -7,9 +7,9 @@
 \contentsline {chapter}{LEMBAR PERNYATAAN}{vii}{chapter*.4}%
 \contentsline {chapter}{ABSTRAK}{ix}{chapter*.5}%
 \contentsline {chapter}{KATA PENGANTAR}{xi}{chapter*.6}%
-\contentsline {chapter}{DAFTAR ISI}{xiii}{Item.9}%
-\contentsline {chapter}{DAFTAR GAMBAR}{xv}{Item.9}%
-\contentsline {chapter}{DAFTAR TABEL}{xvii}{Item.9}%
+\contentsline {chapter}{DAFTAR ISI}{xiii}{Item.8}%
+\contentsline {chapter}{DAFTAR GAMBAR}{xv}{Item.8}%
+\contentsline {chapter}{DAFTAR TABEL}{xvii}{Item.8}%
 \setlength {\cftbeforechapskip }{10pt}
 \renewcommand {\cftchapfont }{\bfseries }
 \renewcommand {\cftchappagefont }{\bfseries }

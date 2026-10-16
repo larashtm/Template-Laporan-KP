@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.9.16)  16 OCT 2026 15:06
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.9.16)  16 OCT 2026 15:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1227,27 +1227,19 @@ File: images/ganesha.jpg Graphic file (type bmp)
 
 
 
-] [2]) (02 Lembar Pengesahan.tex
-[3
-
-] [4]) (03 Lembar Pernyataan.tex [5
-
-] [6
+]) (02 Lembar Pengesahan.tex
+[2
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 14--18
+LaTeX Font Info:    Trying to load font information for U+msa on input line 39.
 
- []
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 19.
-
-(C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+ (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 19.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 39.
 
 
 (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -1259,17 +1251,34 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 (C:\Users\laras\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
-))
-(04 Abstrak.tex [7] [8
+)
+[3] [4
+
+]
+File: images/ttd(1).png Graphic file (type bmp)
+<images/ttd(1).png>
+) (03 Lembar Pernyataan.tex [5] [6
+
+]
+File: images/ttd(2).png Graphic file (type bmp)
+<images/ttd(2).png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--18
+
+ []
+
+) (04 Abstrak.tex [7] [8
 
 ]) (05 Kata Pengantar.tex [9] [10
 
 ]
-Overfull \hbox (1.54488pt too wide) in paragraph at lines 14--15
+Overfull \hbox (1.54488pt too wide) in paragraph at lines 13--14
 []\TU/TimesNewRoman(0)/m/n/12 Penulis menyadari bahwa laporan kerja praktik ini
  masih memiliki kekurangan. Oleh
  []
 
+File: images/ttd(2).png Graphic file (type bmp)
+<images/ttd(2).png>
 ) (06 Daftar Isi.tex [11] [12
 
 ] (Laporan_KP.toc [13])
@@ -1444,17 +1453,17 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
 Package rerunfilecheck Info: File `Laporan_KP.out' has not changed.
-(rerunfilecheck)             Checksum: BC71C8E71647E48239700C81E3E90C64;11459.
+(rerunfilecheck)             Checksum: DA73011996FB461572396CDA07D9A62B;11459.
 Package logreq Info: Writing requests to 'Laporan_KP.run.xml'.
 \openout1 = `Laporan_KP.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32295 strings out of 402987
- 621667 string characters out of 5448524
- 1677535 words of memory out of 5000000
- 60606 multiletter control sequences out of 15000+600000
- 632934 words of font info for 85 fonts, out of 8000000 for 9000
+ 32319 strings out of 402987
+ 622339 string characters out of 5448524
+ 1677536 words of memory out of 5000000
+ 60626 multiletter control sequences out of 15000+600000
+ 632950 words of font info for 87 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  88i,10n,109p,1713b,6026s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
