@@ -1,228 +1,106 @@
 \cleardoublepage
-\chapter{JUDUL PEKERJAAN}
+\chapter{Pelaksanaan Pekerjaan Bulan Juli}
 \label{chap:judul-pekerjaan}
-Bab ini membahas tahapan dan dinamika pelaksanaan pekerjaan di tempat kerja praktik. Ada beberapa jenis pekerjaan yang mungkin dilakukan oleh mahasiswa pada saat KP, misalnya:
-\begin{enumerate}[1.]
-    \item Pekerjaan penyelesaian suatu proyek atau pembuatan produk. Jenis pekerjaan seperti ini biasanya diberikan oleh perusahaan. Proyek atau produk yang dikerjakan dapat lebih dari satu macam. Untuk jenis pekerjaan seperti ini, ceritakan proses atau tahapan pekerjaan, kegiatan profesionalisme yang dilakukan, kegiatan-kegiatan sampingan, masalah, tantangan, keputusan-keputusan yang diambil, konflik, dan sebagainya selama proses penyelesaian proyek atau produk.
-    \item Pekerjaan yang tidak tetap dan dapat berubah setiap hari atau setiap saat tergantung kebutuhan saat itu. Laporkan kegiatan harian ini, termasuk tugas, dinamika, masalah, dan solusi penyelesaian masalah harian tersebut. Bahkan, jelaskan juga jika ada pekerjaan yang tidak berhubungan dengan bidang studi sekalipun, seperti tugas administrasi, mengikuti rapat, hingga presentasi atau studi.
-    \item Pekerjaan yang inisiasinya dari mahasiswa.Jelaskan semua proses pekerjaan ini sejak inisiasi hingga penyelesaiannya, termasuk motivasi, masalah, keputusan-keputusan profesional yang diambil, interaksi dengan pemangku kepentingan, dan lain-lain.
-    \item Jenis pekerjaan lainnya yang relevan dengan konteks kerja praktik.
-\end{enumerate}
-Dalam bab ini, jelaskan secara rinci mengenai pekerjaan yang dilakukan selama kerja praktik. Mulailah dengan gambaran umum tentang jenis pekerjaan yang dilakukan, kemudian uraikan secara detail setiap tugas atau proyek yang dikerjakan.
-Usahakan penjelasan disertai dengan ilustrasi atau foto agar pembaca memiliki gambaran tentang jenis pekerjaan yang dilakukan dan lingkungan kerjanya. Sampaikan tindakan-tindakan profesional dan etika profesi yang dijalani saat KP. Pembagian subbab dibebaskan, tidak kaku, tergantung kompleksitas penjelasan. 
+\makeatletter
+\@addtoreset{figure}{section}
+\makeatother
+\renewcommand{\thefigure}{\thesection.\arabic{figure}}
 
-\section{Penulisan referensi}
-Jika ada referensi yang digunakan dalam penulisan laporan ini, cantumkan referensi tersebut dengan benar menggunakan \texttt{biblatex} sesuai dengan contoh penulisan kutipan dan daftar pustaka yang telah disediakan dalam templat ini.
-Sebagai contoh, pada paragraf berikut ini terdapat kutipan dari dua referensi yang berbeda \autocite{laudon2020, pressman2019}. 
-Ada dua format penulisan sitasi yang dapat digunakan, yaitu format naratif dan format parentetik.
-Contoh penulisan kutipan dengan format naratif adalah sebagai berikut:
-\begin{displayquote}
-Menurut \textcite{laudon2020}, sistem informasi adalah kombinasi dari teknologi informasi dan aktivitas orang yang menggunakan teknologi tersebut untuk mendukung operasi dan manajemen organisasi.
-\end{displayquote}
-Contoh penulisan kutipan dengan format parentetik adalah sebagai berikut:
-\begin{displayquote}
-    Sistem informasi merupakan kombinasi dari teknologi informasi dan aktivitas orang yang menggunakan teknologi tersebut untuk mendukung operasi dan manajemen organisasi \autocite{laudon2020}.
-\end{displayquote}
+\section{Gambaran Umum Pekerjaan}
+Pada Juli 2026, penulis melaksanakan kerja praktik di PT Nutech Integrasi pada Divisi \textit{Business \& Product Development} sebagai \textit{Product Specialist Intern}. Kegiatan pada bulan pertama diawali dengan pengenalan pilar perusahaan dan mempelajari dokumen katalog produk PT Nutech Integrasi. Setelah memperoleh gambaran mengenai solusi perusahaan, penulis membantu mentor dalam eksplorasi awal \textit{Smart Depot Management System} (SDMS), khususnya informasi aset yang divisualisasikan dalam bentuk sistem antarmuka pemantauan.
 
-\section{Penulisan Gambar, Tabel, Rumus, dan Kode Program}
-Berikut adalah beberapa contoh penulisan gambar, tabel, rumus, dan kode program yang sesuai dengan format penulisan tugas akhir.
-\subsection{Penulisan Gambar}
-Contoh gambar dapat dilihat pada Gambar \ref{fig:jaringan} dan Gambar \ref{fig:jaringan2}.
-Secara vertikal, gambar biasanya diletakkan di bagian atas halaman (\textit{top}) atau di bagian bawah halaman (\textit{bottom}).
-Gambar tidak harus diletakkan tepat di tempat gambar tersebut disebutkan pertama kali dalam teks,
-tetapi dapat diletakkan di halaman berikutnya jika tidak muat di halaman yang sama. Pada contoh ini, kedua gambar diletakkan di bagian atas halaman 
-menggunakan opsi \texttt{[t]} pada lingkungan \texttt{figure}, namun pada halaman yang berbeda, meskipun disebutkan di halaman yang sama akibat ruang yang terbatas. 
+Kegiatan ini mendorong penulis mengembangkan prototipe antarmuka web \textit{Operational Dashboard} sebagai fokus pekerjaan untuk bulan Juli. Rancangan dibuat secara mandiri oleh penulis dengan menggunakan hasil eksplorasi dalam menentukan kebutuhan informasi dan merancang penyajian informasi operasional depo. Secara keseluruhan, pekerjaan dilaksanakan melalui beberapa tahapan, mulai dari pemahaman penugasan, pendalaman informasi inspeksi, identifikasi kebutuhan tampilan, hingga pengembangan prototipe dashboard. Alur pelaksanaan pekerjaan tersebut ditunjukkan pada Gambar \ref{fig:alur-pekerjaan-juli}.
 
-Penyebutan judul gambar dalam teks menggunakan perintah \texttt{ref}, misalnya Gambar \texttt{\\ref\{fig:jaringan\}}.
-Gunakan huruf kapital pada kata "Gambar" saat menyebutkan gambar dalam teks.
-
-\begin{figure}[t] % pilihan opsi yang disarankan: t = top, b = bottom, h = here
-  \caption{Contoh peletakan gambar di bagian atas halaman} 
-	\label{fig:jaringan}
-    	\includegraphics[width=0.7\textwidth]{images/gambar1.png}
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.8\textwidth]{images/JULI(2).png}
+    \caption{Alur pelaksanaan pekerjaan bulan Juli}
+    \label{fig:alur-pekerjaan-juli}
 \end{figure}
 
-Gambar, grafik, atau ilustrasi harus memiliki keterangan atau judul (\textit{caption}) yang menjelaskan isi gambar tersebut. 
-Secara horisontal, gambar dan judulnya diposisikan di tengah. Nomor gambar tidak diakhiri tanda baca.
-Judul gambar diletakkan di bawah gambar dan ditulis dengan huruf kecil kecuali huruf pertama pada kalimat judul. 
-Kalimat judul yang panjang dapat ditulis dalam beberapa baris seperti pada Gambar \ref{fig:jaringan2}.
+\section{Pengenalan Portofolio dan Penyelarasan Dokumen Katalog Produk}
+\subsection{Pengenalan Portofolio Perusahaan}
+Fase awal kerja praktik adalah mempelajari portofolio produk dan solusi teknologi PT Nutech Integrasi. Hal ini penting dilakukan untuk memberikan pemahaman mengenai cakupan bisnis PT Nutech Integrasi dan memahami Divisi \textit{Business \& Product Development} secara lebih jauh. Pada tahap ini, penulis mempelajari empat pilar bisnis perusahaan yang dibagi dalam dua kelompok layanan. Kelompok \textit{Intelligent Mobility} terdiri atas \textit{Intelligent Transportation System} (ITS) dan \textit{Intelligent Logistic System} (ILS), sedangkan kelompok \textit{Intelligent Services} tersusun atas \textit{Intelligent Information System} (IIS) dan \textit{Geographic Information System} (GIS).
 
-Ukuran gambar yang ditampilkan dapat diatur dengan mengubah nilai \textit{width} dalam sintaks \textit{includegraphics}. 
-Gambar \ref{fig:jaringan} memiliki lebar 70\% dari lebar teks, sedangkan Gambar \ref{fig:jaringan2} memiliki lebar 90\% dari lebar teks.
- 
+\subsection{Penyelarasan Dokumen Katalog Produk}
+Dalam rangka mengoptimalkan proses pengelolaan data produk yang komprehensif, penulis melaksanakan serangkaian aktivitas verifikasi dan penyesuaian terhadap dokumen katalog yang dimiliki oleh PT Nutech Integrasi. Tujuan utama kegiatan ini adalah memastikan seluruh konten yang tercantum dalam katalog selaras dan merefleksikan secara akurat keempat pilar fundamental yang menopang strategi bisnis perusahaan. Kegiatan ini secara spesifik meliputi perbaikan substansial pada aspek penulisan. Selain itu, penulis juga melakukan pemeriksaan menyeluruh terhadap kelengkapan informasi, seperti Tingkat Komponen Dalam Negeri (TKDN) yang menunjukkan proporsi komponen dalam negeri, Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) sebagai penanda sektor industri, Nomor Induk Berusaha (NIB) sebagai identitas legalitas bisnis, serta informasi mengenai hak cipta dan lisensi yang menyertai setiap produk.
 
-\begin{figure}[t] 
-  \caption{Contoh peletakan gambar dengan judul yang panjang sehingga ditulis dalam beberapa baris} 
-	\label{fig:jaringan2}
-    	\includegraphics[width=0.9\textwidth]{images/gambar1.png}
+\section{Kebutuhan Smart Depot Management System}
+\subsection{Identifikasi Ruang Lingkup Smart Depot}
+Setelah penyesuaian katalog produk dilakukan, penulis ditugaskan oleh mentor untuk mempelajari konsep \textit{Smart Depot Management System} (SDMS). Kegiatan ini diawali dengan memahami tujuan, ruang lingkup, dan penerapan SDMS dalam menawarkan solusi kepada sarana perkeretaapian Indonesia. Hal ini dilakukan melalui diskusi bersama mentor dan pencarian informasi pendukung dari negara-negara Eropa.
+
+Eksplorasi difokuskan pada pemantauan kondisi komponen \textit{pantograph} dan \textit{wheelset}. Penulis mempelajari kebutuhan informasi pemeriksaan, seperti identitas aset, status kondisi, hasil inspeksi, riwayat pemeriksaan, dan indikator peringatan. Hasil pembelajaran ini digunakan sebagai pedoman awal dalam menetapkan informasi yang disajikan pada prototipe \textit{Operational Dashboard} berbasis web.
+
+\subsection{Pantograph dan Wheel Inspection}
+Dalam memahami kebutuhan pemantauan kondisi sarana perkeretaapian, penulis melakukan riset awal mengenai \textit{Pantograph Inspection} dan \textit{Wheel Inspection} melalui referensi yang berkaitan dengan pengembangan konsep \textit{Smart Depot Management System} (SDMS). Kegiatan ini penting untuk mengenali pemeriksaan yang diperlukan dalam pemantauan kondisi aset di depo. Pada \textit{Pantograph Inspection}, pembahasan berfokus pada kondisi pantograf, khususnya mengenai \textit{carbon strip}, termasuk petunjuk yang dipakai dalam pengujian. Sementara itu, eksplorasi \textit{Wheel Inspection} meliputi hasil pengukuran dan parameter kondisi roda sebagai dasar dalam pemantauan sarana.
+
+Selanjutnya, penulis mempelajari proses pemeriksaan pantograf, teknologi yang digunakan, serta informasi yang dibutuhkan untuk memantau kondisi komponen tersebut. Hasil pembelajaran kemudian dirangkum ke dalam kerangka eksplorasi yang meliputi aspek operasional, komponen pemeriksaan, alternatif teknologi, dan kebutuhan pengguna. Kerangka ini digunakan sebagai referensi awal dalam pengembangan konsep \textit{Operational Dashboard}, sebagaimana ditunjukkan pada Gambar \ref{fig:kerangka-pantograph}.
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=0.72\textwidth]{images/kerangka.jpg}
+    \captionsetup{justification=centering}
+    \caption{Kerangka Eksplorasi Pantograph Inspection dan Identifikasi Kebutuhan Informasi}
+    \label{fig:kerangka-pantograph}
 \end{figure}
 
-Pastikan gambar yang digunakan memiliki resolusi yang cukup tinggi agar tidak pecah atau buram saat dicetak. 
-Gambar umumnya tidak tajam dan tulisan tidak jelas atau kabur jika gambar tersebut:
+\subsection{Identifikasi Kebutuhan \textit{Operational Dashboard}}
+Bagian dari proses pengembangan konsep \textit{Operational Dashboard} adalah melakukan identifikasi kebutuhan informasi. Proses ini bertujuan untuk menentukan jenis informasi yang disajikan dalam \textit{interface} pemantauan. Dalam tahap ini, penulis mengkaji informasi yang telah diperoleh mengenai pemeriksaan \textit{pantograph} dan \textit{wheelset}, kemudian menghubungkannya dengan kebutuhan pemantauan aset di lingkungan depo. Proses ini dilakukan dengan mempertimbangkan informasi yang dibutuhkan untuk mengetahui kondisi aset secara umum, memantau pelaksanaan inspeksi, serta mengidentifikasi hasil pemeriksaan komponen yang rusak atau perlu segera ditangani.
+
+Untuk menyusun antarmuka tersebut, penulis membagi kelompok kebutuhan informasi ke dalam tujuh bagian utama, yaitu \textit{Overall Asset Status}, \textit{Inspection Status}, \textit{Pantograph Result}, \textit{Wheel Result}, \textit{Active Alarm}, \textit{History/Trend}, dan \textit{Recommendation/Action}. Masing-masing komponen memiliki peran yang berbeda dalam menampilkan informasi kondisi aset dan aktivitas inspeksi. Pengelompokan ini dilakukan agar informasi yang bersifat umum dapat dibedakan dari hasil pemeriksaan yang lebih spesifik, sehingga susunan dashboard dapat dirancang secara terstruktur dan mudah dipahami. Rincian komponen beserta tujuan penyajiannya ditunjukkan pada Tabel \ref{tab:pengelompokan-dashboard}.
+
+\begin{table}[ht]
+    \centering
+    \caption{Pengelompokan \textit{Operational Dashboard}}
+    \label{tab:pengelompokan-dashboard}
+    \begin{tabularx}{0.9\textwidth}{|>{\raggedright\arraybackslash}X|>{\raggedright\arraybackslash}X|}
+        \hline
+        \textbf{Komponen} & \textbf{Tujuan penyajian dalam rancangan} \\
+        \hline
+        \textit{Overall Asset Status} & Ringkasan kondisi aset \\
+        \hline
+        \textit{Inspection Status} & Status pelaksanaan inspeksi \\
+        \hline
+        \textit{Pantograph Result} & Kelompok hasil pemeriksaan pantograf \\
+        \hline
+        \textit{Wheel Result} & Kelompok hasil pemeriksaan roda \\
+        \hline
+        \textit{Active Alarm} & Indikasi masalah \\
+        \hline
+        \textit{History/Trend} & Menyediakan area visualisasi perubahan kondisi \\
+        \hline
+        \textit{Recommendation/Action} & Menyediakan area informasi \\
+        \hline
+    \end{tabularx}
+\end{table}
+
+\section{Proses Perancangan \textit{Operational Dashboard}}
+\subsection{Penyusunan Konsep Dashboard}
+Fase utama dalam perancangan \textit{Operational Dashboard} adalah memastikan fokus penyampaian informasi sesuai dengan kebutuhan yang telah diidentifikasi pada tahap eksplorasi sebelumnya. Penulis berfokus pada penyusunan tampilan yang memberikan gambaran umum mengenai kondisi aset dan aktivitas inspeksi di lingkungan depo. Informasi yang bersifat ringkasan, seperti \textit{Overall Asset Status} dan \textit{Inspection Status}, diprioritaskan sebagai bagian utama agar pengguna dapat memahami gambaran awal mengenai kondisi operasional tanpa harus memeriksa setiap hasil inspeksi secara manual.
+
+Selain informasi ringkasan, penulis menyajikan hasil \textit{Pantograph Inspection} dan \textit{Wheel Inspection} dalam kelompok tampilan yang berbeda agar kondisi setiap aspek dapat dikenali dengan cepat dan jelas. Informasi tambahan seperti \textit{Active Alarm}, \textit{History/Trend}, dan \textit{Recommendation/Action} menjadi faktor pendukung untuk melengkapi tampilan visual peringatan, riwayat kondisi aset, serta kebutuhan observasi lanjutan.
+
+\subsection{Implementasi Antarmuka Tahap Awal}
+Dalam mengembangkan antarmuka web, penulis menggunakan HTML (\textit{HyperText Markup Language}), CSS (\textit{Cascading Style Sheets}), dan JavaScript untuk menyusun struktur halaman serta mengarahkan elemen dashboard agar selaras dengan kebutuhan. CSS digunakan untuk mengatur tata letak, ukuran komponen, warna, dan kejelasan informasi supaya tampilan dashboard tersusun secara konsisten. Sementara itu, JavaScript digunakan untuk membangun pola interaksi pengguna dengan prototipe agar dapat digunakan secara lebih intuitif dan nyaman.
+
+Penerapan teknologi juga membantu penyusunan tampilan visual dan perilaku antarmuka secara lebih terstruktur. Proses pengembangan berfokus pada penyusunan antarmuka yang menampilkan ringkasan kondisi aset, status inspeksi, hasil pemeriksaan pantograf dan roda secara terintegrasi, serta informasi pendukung dalam satu halaman. Hasil kegiatan ini berupa prototipe web yang berfungsi sebagai pedoman awal untuk menggambarkan konsep operasional depo, meskipun pengembangannya masih terbatas pada fungsionalitas antarmuka dan interaktivitas dasar.
+
+\subsection{Penyusunan Komponen Dashboard}
+Proses pengembangan dilakukan dengan menyusun komponen \textit{Operational Dashboard} dari modul yang telah diidentifikasi sebelumnya. Pada tahap ini, penulis mengatur susunan elemen antarmuka agar setiap informasi memiliki bagian tampilan yang sesuai dengan fungsinya. Komponen \textit{Overall Asset Status} dan \textit{Inspection Status} ditempatkan sebagai bagian ringkasan untuk memberikan gambaran umum mengenai kondisi aset dan aktivitas inspeksi di lingkungan depo.
+
+Selanjutnya, hasil \textit{Pantograph Inspection} dan \textit{Wheel Inspection} disusun dalam komponen terpisah agar informasi kondisi masing-masing aset dapat dibedakan dengan jelas. Komponen pendukung, seperti \textit{Active Alarm}, \textit{History/Trend}, dan \textit{Recommendation/Action}, juga digunakan untuk menampilkan peringatan, riwayat kondisi, serta informasi mengenai tahapan pemeriksaan lanjutan.
+
+\subsection{Pengaturan Tata Letak dan Interaksi Antarmuka}
+Pada tahap ini, pengembangan prototipe \textit{Operational Dashboard} dilakukan dengan menata tata letak dan interaksi antarmuka agar informasi dapat disajikan secara jelas dan mudah dipahami. Proses pengembangan pada tahap ini meliputi penyusunan tata letak komponen, pengaturan tampilan visual, serta penerapan interaksi dasar pada dashboard. Kegiatan yang dilakukan meliputi:
+
 \begin{enumerate}[a.]
-  \item diperoleh dari hasil cropping pada suatu halaman buku atau situs web;
-  \item hasil pembesaran gambar yang gambar aslinya sebenarnya berukuran kecil; atau
-  \item disimpan dalam resolusi kecil
-\end{enumerate}
-Ketidakjelasan gambar ini dapat dilihat pada garis-garis diagram yang tidak tegas dan tulisan-tulisan dalam gambar yang tampak kabur dan kurang jelas terbaca.
-
-Untuk mendapatkan gambar yang tidak kabur (\textit{blur}), langkah-langkah berikut dapat digunakan:
-\begin{enumerate}[(a)]
-\item Hindari \textit{screenshot}. Gambar yang didapat di suatu pustaka atau referensi sebaiknya digambar ulang (tidak perlu sama persis), misalnya menggunakan PowerPoint, Canva, Figma, draw.io, atau yang lainnya.
-\item Jika diagram atau ilustrasi digambar menggunakan draw.io, saat gambar disimpan ke format PNG atau JPG (\textit{export as}), lakukan \textit{zoom} ke minimal 300\% (\textit{the default value is} 100\%). 
-\item Jika diagram digambar dengan menggunakan \texttt{PowerPoint} atau aplikasi yang mengolah gambar vektor lainnya, gambar dapat langsung disimpan asalkan resolusinya tinggi.
+    \item \textbf{Penataan tata letak komponen}, meliputi penempatan kartu informasi, ukuran komponen, dan jarak antarelemen agar dashboard terlihat rapi.
+    \item \textbf{Penataan tampilan visual}, meliputi penggunaan warna, tipografi, serta gaya tampilan untuk membedakan setiap kelompok informasi.
+    \item \textbf{Peningkatan dinamika antarmuka}, mencakup penerapan prinsip dasar interaksi dengan memanfaatkan JavaScript.
 \end{enumerate}
 
-\subsection{Penulisan Tabel}
-Format penulisan tabel hampir sama dengan format penulisan gambar. Bedanya adalah judul tabel diletakkan di atas tabel, bukan di bawah tabel seperti pada gambar.
-Ada tabel yang bisa dimuat dalam satu halaman (tabel pendek) dan ada tabel panjang yang yang tidak muat dalam satu halaman. Kedua jenis tabel tersebut disusun dengan cara yang berbeda.
-Jika tabel sangat panjang, gunakan paket \textit{longtable} untuk membuat tabel yang dapat terpotong ke halaman berikutnya.
-Namun, jika tabel dapat dimuat dalam satu halaman, gunakan lingkungan \textit{table} biasa, tidak menggunakan \textit{longtable}.
-Usahakan tabel dapat ditulis dalam satu halaman, tidak terpotong ke halaman berikutnya, jika memungkinkan.
+\subsection{Batasan Pengembangan}
+Sampai tahap ini, pengembangan \textit{Operational Dashboard} masih berada dalam lingkup prototipe antarmuka berbasis web. Walaupun dalam pengerjaan proyek ini penulis telah menggunakan HTML, CSS, dan JavaScript, prototipe yang dihasilkan belum dikembangkan sebagai aplikasi operasional yang terintegrasi dengan perangkat inspeksi maupun sistem pengelolaan data depo.
 
-\subsubsection{Penulisan Tabel Pendek}
-Contoh tabel pendek dapat dilihat pada Tabel \ref{tab:tabel1}, \ref{tab:tabel2}, dan \ref{tab:tabel3}. 
-Pada kedua table ini, tabel dan judulnya diposisikan di tengah secara horisontal dan 
-judul tabel diletakkan di atas tabel. Secara vertikal, tabel sebaiknya diletakkan di bagian atas atau bawah halaman.
-
-Penyebutan judul tabel dalam teks menggunakan perintah \texttt{ref}, misalnya Tabel \ref{tab:tabel1}.
-Gunakan huruf kapital pada kata "Tabel" saat menyebutkan tabel dalam teks.
-
-Tabel \ref{tab:tabel1} menggunakan paket \textit{tabularx} untuk mengatur lebar kolom secara fleksibel. 
-Selain itu, tabel ini juga menggunakan \textit{threeparttable} untuk menambahkan catatan kaki pada tabel 
-dan opsi \texttt{X} agar lebar kolom fleksibel menyesuaikan lebar tabel.
-Catatan kaki pada tabel ini menggunakan perintah \texttt{tablenotes} yang disediakan oleh paket \textit{threeparttable}.
-Catatan kaki pada tabel ini menggunakan perintah \texttt{\textbackslash footnotemark} dan \texttt{\textbackslash footnotetext} untuk menambahkan catatan kaki pada tabel.
-
-Tabel \ref{tab:tabel2} menggunakan format standar \texttt{| l | c | r |}. 
-Tabel \ref{tab:tabel3} menggunakan lebar kolom tetap (\textit{fixed width}) menggunakan \texttt{p\{width\}}.
-
-\begin{table} 
-  \centering
-    \begin{threeparttable}[t] % threeparttable agar bisa menambahkan catatan kaki pada tabel
-    \caption{Contoh tabel yang menggunakan \texttt{tabularx} untuk mengatur lebar kolom secara fleksibel. 
-    Selain itu, tabel ini juga menggunakan \texttt{threeparttable} untuk menambahkan catatan kaki pada tabel 
-    dan opsi \texttt{X} agar lebar kolom fleksibel menyesuaikan lebar tabel.}
-    \label{tab:tabel1}
-    \begin{tabularx}{0.6\textwidth}{| c | X| l | r @{}|} % @{} removes extra space at edges, X makes the column flexible width
-	    \hline
-	    No & Nama 	& Satuan 		& Harga \\
-	    \hline
-	    1 & Buku 	& Exemplar	& 25000 \\
-	    2 & Komputer	& Unit		& 2500000 \\
-	    3 & Pensil	& Buah		& 118900 \\
-	    \hline
-	  \end{tabularx} 
-    \begin{tablenotes}
-      \footnotesize
-      \item \footnotemark[1]Tabel harga berdasarkan data tahun 2023.
-      \item \footnotemark[2]Sumber: \url{https://www.example.com}
-    \end{tablenotes}
-  \end{threeparttable}
-\end{table}
-
-
-
-
-\begin{table}[t] % pilihan opsi yang disarankan: t = top, b = bottom, h = here
-  \caption{Tabel yang menggunakan format standar \texttt{| l | c | r |}}
-  \label{tab:tabel2}
-	\begin{tabular}{ | l | c | r | }
-	\hline
-	Nama 	& Satuan 		& Harga \\
-	\hline
-	Buku 	& Exemplar	& 25000 \\
-	Komputer	& Unit		& 2500000 \\
-	Pensil	& Buah		& 118900 \\
-	\hline
-	\end{tabular}
-\end{table}
-
-
-\begin{table}[t] % pilihan opsi yang disarankan: t = top, b = bottom, h = here
-  \centering
-  \caption{Tabel yang lebar kolomnya dibuat tetap}
-  \label{tab:tabel3}
-	\begin{tabular}{  p{0.2\textwidth} | p{0.2\textwidth} | p{0.2\textwidth}  }
-	\hline
-	\textbf{Nama} 	& \textbf{Satuan} 		& \textbf{Harga} \\
-	\hline
-	Buku 	& Exemplar	& 25000 \\
-	\emph{Komputer}	& Unit		& 2500000 \\
-	Pensil	& Buah		& 118900 \\
-	\hline
-	\end{tabular}
-\end{table}
-
-% -- Example of importing table from external file --
-\subsubsection{Mengimpor Tabel dari Berkas Eksternal}
-
-Untuk kerapian penulisan, tabel tidak harus ditulis di dokumen utama. Sebagai contoh, Tabel \ref{tab:tabel4} diimpor dari berkas eksternal \texttt{table/tabel1.tex} menggunakan perintah \texttt{input}. 
-Dengan demikian, jika tabel tersebut perlu diubah, cukup mengubah pada berkas eksternal tersebut tanpa perlu mengubah pada berkas dokumen utama ini.
-
-\input tables/tabel1.tex
-
-
-% -- Example of long table --
-\subsubsection{Tabel yang Sangat Panjang}
-Jika tabel terlalu panjang sehingga tidak muat dalam satu halaman, gunakan paket 
-\textit{longtable} untuk membuat tabel yang dapat terpotong ke halaman berikutnya, 
-seperti pada Tabel \ref{tab:long}. 
-
-\input tables/longtable1.tex
-
-\subsection{Penulisan Rumus atau Persamaan Matematika Menggunakan {\LaTeX} dan Penomorannya}
-Contoh rumus matematika dapat ditulis seperti pada Persamaan \ref{eq:contoh1} di bawah ini. 
-Penomoran persamaan diletakkan di sebelah kanan, dan rumus ditulis dalam mode \textit{display math}.
-\begin{equation}
-E = mc^2
-\label{eq:contoh1}
-\end{equation}
-
-Contoh lain penulisan rumus matematika yang lebih kompleks dapat ditulis seperti pada Persamaan \ref{eq:rumus2}.
-
-\begin{align}
-f(x) &= ax^2 + bx + c \\
-f'(x) &= \frac{d}{dx}(ax^2 + bx + c) \notag \\ % tidak menampilkan nomor pada baris ini
-      &= 2ax + b \label{eq:rumus2}
-\end{align}
-
-Jika rumus terlalu panjang untuk ditulis dalam satu baris, gunakan lingkungan \textit{multline} seperti pada Persamaan \ref{eq:rumus3} di bawah ini.
-\begin{multline} 
-y = a_0 + a_1x + a_2x^2 + a_3x^3 + a_4x^4 + a_5x^5 + a_6x^6 + a_7x^7 \\
-    + a_8x^8 + a_9x^9 + a_{10}x^{10} \label{eq:rumus3}
-\end{multline}
-
-Jika ada penurunan rumus yang terdiri dari beberapa baris, namun tidak memerlukan penomoran pada setiap baris, gunakan lingkungan \textit{align*}, misalnya:
-
-\begin{align*} 
-S &= \sum_{i=1}^{n} i^2 \\
-  &= 1^2 + 2^2 + 3^2 + \cdots + n^2 \\
-  &= \frac{n(n + 1)(2n + 1)}{6}
-\intertext{Contoh lainnya adalah rumus untuk mencari nilai rata-rata fungsi $f(x)$ pada interval $[p, q]$:}
-\bar{f} &= \frac{1}{q - p} \int_{p}^{q} f(x) \, dx \\
-        &= \frac{1}{q - p} \int_{p}^{q} (ax^2 + bx + c) \, dx \\
-        &= \frac{1}{q - p} \left[ \frac{a}{3}x^3 + \frac{b}{2}x^2 + cx \right]_p^q \\
-        &= \frac{a(q^3 - p^3)}{3(q - p)} + \frac{b(q^2 - p^2)}{2(q - p)} + c \label{eq:rumus4}
-\end{align*}
-
-
-
-\subsection{Penulisan Kode Program, \textit{Script} atau \textit{Pseudocode}}
-Contoh penulisan kode program, \textit{script}, atau \textit{pseudocode} dapat dilihat seperti pada \textit{listing} \ref{lst:binary_iter}. 
-Gunakan paket \textit{listings} untuk menulis \textit{source code} dalam bahasa pemrograman tertentu. 
-Kode seperti ini disebut dengan istilah \textit{listing}. 
-Kode program, \textit{script}, atau \textit{pseudocode} yang relatif pendek dapat ditulis di dalam
-dokumen utama. Namun, jika kode programnya sangat panjang, sebaiknya ditulis di berkas terpisah dan diletakkan di lampiran.
-
-\subsection{Penulisan Algoritma}
-Contoh penulisan algoritma dapat dilihat pada Algoritma \ref{alg:binary-search}. Ada beberapa paket yang dapat digunakan untuk menulis algoritma,
-misalnya \textit{algorithm2e}, \textit{algorithmic}, dan \textit{algpseudocode}. 
-Pada contoh ini digunakan paket \textit{algorithmic} untuk menulis algoritma. Setiap paket memiliki sintaks yang berbeda-beda.
-Oleh karena itu, pelajari dokumentasi paket yang digunakan untuk menulis algoritma.
-
-
-\input{listings/binary-search-python.tex}
-
-
-\input{algorithms/binary-search-alg.tex}
+\section{Hasil Pekerjaan dan Pembelajaran}
+Selama pelaksanaan kerja praktik pada bulan Juli, penulis memperoleh pengalaman dalam memahami portofolio produk perusahaan, melakukan pemeriksaan dokumen katalog, serta mengeksplorasi kebutuhan informasi dalam pengembangan konsep \textit{Smart Depot Management System} (SDMS). Salah satu hasil pekerjaan yang dikembangkan adalah prototipe \textit{Operational Dashboard} berbasis web yang menampilkan gambaran awal mengenai pemantauan kondisi aset dan aktivitas inspeksi di lingkungan depo.

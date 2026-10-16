@@ -225,13 +225,13 @@
 % --- Bab: Judul Subbab dan Subsubbab ---
 \titleformat{\section}
 	{\normalfont\bfseries}
-	{\thesection}{1em}{}
+	{\makebox[4em][l]{\thesection}}{0pt}{}
 \titleformat{\subsection}
 	{\normalfont\bfseries}
-	{\thesubsection}{1em}{}
+	{\makebox[4em][l]{\thesubsection}}{0pt}{}
 \titleformat{\subsubsection}
 	{\normalfont\bfseries}
-	{\thesubsubsection}{1em}{}
+	{\makebox[4em][l]{\thesubsubsection}}{0pt}{}
 
 % --- Gambar: Tampilan judul/caption gambar ---
 \captionsetup[figure]{
